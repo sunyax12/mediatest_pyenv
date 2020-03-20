@@ -1,0 +1,3 @@
+#!/Users/syx/Work/mediatest_pyenv/mediatest/bin/python
+from numba.pycc import main
+main()
