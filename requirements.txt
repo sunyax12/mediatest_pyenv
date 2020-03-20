@@ -1,0 +1,13 @@
+ipython
+matplotlib
+pandas
+pyloudnorm
+resampy
+sounddevice
+soundfile
+requests
+pytest
+websocket-client
+pyshark
+Pillow
+pyaudio
